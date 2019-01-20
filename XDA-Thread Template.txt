@@ -106,8 +106,10 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Downloads.png?raw=true[/IMG]
-[SIZE="3"]Download ROM[B]:[URL="https://sourceforge.net/projects/superioros/files/<device name>"]SuperiorOS[/URL][/SIZE][/B]
+[SIZE="3"]Download ROM[B]:[URL="https://drive.google.com/file/d/1Ja2M7oP4n9ibBL7OHWkTg8SEs7w4OsFv/view"[/URL][/SIZE][/B]
 
+[SIZE="4"][color="#e34036"][B]Screenshots[/B][/SIZE][/COLOR]
+[SIZE="3"]Sceeenshots[B]:[URL="https://drive.google.com/open?id=1v8W-ZwzrTYABXcmyJEp14kTfSCePfYF0[/URL][/SIZE][/B] 
 [SIZE="3"]Download [B]Gapps:[/B]
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE]
 [CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
@@ -159,23 +161,28 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [B][URL="http://t.me/superior_os"]Telegram Channel[/URL][/B][/SIZE]
 
 [U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+[B][SIZE="4"]REPORT BUGS HERE[/SIZE][/B]
+[B][URL="https://t.me/Redmi_5a[/URL][/B]
 As soon as the problem occurs, take a logcat! 
 [URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE="3"][B]SuperiorOS, ROM for the *Your Device*[/B][/SIZE]
 [B]SuperiorOS Version Name:[/B] Destructor
-[B]Device:[/B] *Your Device
-[B]Maintainer:[/B] *Your Name*
-[B]Build Type:[/B] *official or unofficial*
+[B]Device:[/B] Redmi5a(riva)
+[B]Maintainer:[/B] Raj kiran
+[B]Build Type:[/B] unofficial
 
 [B][U]Contributors[/U][/B]
-*Maintainer Name*
+Raj kiran 
+sunnyraj84348
+muralivijay
+Arpoon
 [B]Source Code:[/B] [URL="https://github.com/SuperiorOS"]SuperiorOS[/URL]
-[B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL] 
+[B]Kernel Source:[/B] [URL="https://github.com/rajkiran111/android_kernel_xiaomi_msm8917-1"]Stock kernel[/URL] 
 
 [B]ROM OS Version:[/B] 9.0.x
-[B]ROM Kernel:[/B] Linux x.x
+[B]ROM Kernel:[/B] Linux 3.18.131
 [B]ROM Firmware Required:[/B] Must be on Latest Firmware
 [B]Based On:[/B] AOSP
 
@@ -184,5 +191,4 @@ As soon as the problem occurs, take a logcat!
 [B]Current Stable Version:[/B] Destructor
 [B]Stable Release Date:[/B] 20xx-xx-xx
 
-[B]Created[/B] 20xx-xx-xx
-[B]Last Updated[/B] 20xx-xx-xx
+[B]Created[/B] 20-1-2019
